@@ -50,6 +50,3 @@ Landing Page premium yang dirancang untuk program Internship Mahreen Indonesia. 
 ## ⚖️ Lisensi
 
 Proyek ini dibuat sebagai bagian dari Tes Kompetensi Web Developer Mahreen Indonesia.
-
----
-**Crafted with ❤️ for Mahreen Indonesia.**
